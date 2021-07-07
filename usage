@@ -1,0 +1,1 @@
+wget -O rapidscan.py https://raw.githubusercontent.com/skavngr/rapidscan/master/rapidscan.py && chmod +x rapidscan.py && ./rapidscan.py example.com
